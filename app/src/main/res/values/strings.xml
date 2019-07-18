@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Event reminder</string>
+    <string name="error_occurred">error occurred, Check intenet connection</string>
+    <string name="loading">Please wait…</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="facebook_app_id">566329963895223</string>
+    <string name="fb_login_protocol_scheme">fb566329963895223</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc">Welcom to event reminder, in order to get your near events on facebook you must logged in and
+        allow us with needed permissions, Enjoy !
+    </string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="continue_as">Continue as</string>
+    <string name="google_client_id">287200452513-rvvv48fmct11jqkiontg6jkv7r7c3rrq.apps.googleusercontent.com</string>
+
+</resources>
